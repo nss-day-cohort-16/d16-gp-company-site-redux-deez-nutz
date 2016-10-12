@@ -1,0 +1,15 @@
+/***********Products**************/
+
+.card, .nutPics {
+	display: flex;
+	flex-direction: row;
+}
+#productsOutput {
+	/*display: flex;
+	flex-direction: row;*/
+}
+
+.nutPics {
+	height: 200px;
+	width: 200px;
+}

@@ -1,0 +1,108 @@
+body {
+
+	font-family: 'Bungee';
+}
+table, th, td {
+	
+	border: 2px solid black;
+	color: #faebd7;
+	max-width: 100%;
+	font-family: 'Bungee';
+	font-weight: bold;
+	background-color: #A46C39;
+	overflow: hidden;
+	background-color: rgba(70,0,0,0.26); 
+	text-shadow: 2px 2px black;
+
+}
+
+td {
+	padding: 1.6em;
+	font-size: 1.5em;
+}
+
+td:hover {
+	background-color: black;
+}
+
+#submitResume:hover {
+		background-color: #E44424;
+
+}
+
+th {
+	background-color: #E44424;
+	font-size: 1.8em;
+}
+
+#currentListings { 
+font-size: 30px;
+ }
+
+#submitResume {
+    background-color: #A2AB58; 
+    border: 1px solid black;
+    color: #faebd7;
+    padding: 40px 40px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 60px;
+  	margin-top: 40px;
+	margin-left: 20px;
+    font-size: 18px;
+   	font-family: 'Bungee';
+	font-weight: bold;
+    float: left;
+}
+
+#huge {
+	width: 100%;
+	position: relative;
+}
+
+#careerHeader {
+	position: absolute;
+	width: 50%;
+	top: 200px;
+	left: 10.5em;
+	font-size: 65px;
+	text-shadow: 4px 4px black;
+	color: #E44424;
+
+}
+
+td:hover {
+	transform: rotateX(360deg) scale(1.2, 1.1);
+	transition: 3s 0.2s;
+}
+
+#careerHeader:hover {
+	transform: scale(1.3, 1.3);
+	transition: 3s 0.2s;
+}
+
+#bottomHeader:hover {
+	transform: scale(1.5, 1.5);
+	transition: 3s 0.2s;
+}
+
+#bottomHeader {
+	position: absolute;
+	width: 30%;
+	top: 340px;
+	left: 28em;
+	font-size: 30px;
+	text-shadow: 5px 5px 5px black;
+	color: #E44424;
+}
+
+#socMedia {
+	text-align: center;
+	position: relative;
+
+	bottom: 80px;
+	display: inline-block;
+	margin: 30px;
+
+}
+

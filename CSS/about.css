@@ -1,0 +1,78 @@
+/* --------- IDs -----------*/
+
+#farmImg {
+	width: 600px;
+	height: 400px;
+}
+
+
+/* ----------- CLASS ---------*/
+
+.aboutInfo {
+	width: auto;
+	padding: 0px 60px;
+	margin-top: 20px;
+	color: #fff;
+    font-size: 1.8em;
+    font-weight: bold;
+	/*background-color: rgba(210, 173, 124, 0.8);*/
+}
+
+
+#fbicon {
+    display: inline;
+    float: right;
+    width: 100px;
+    height: 100px;
+    margin-top: 60px;
+    margin-left: 25px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+
+}
+
+#twittericon {
+    display: inline;
+    float: right;
+    width: 100px;
+    height: 100px;
+    margin-top: 60px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    
+}
+
+.aboutFarm h3 {
+    font-size: 2.4em;
+
+}
+/*
+
+#instagramicon {
+    display: inline-block;
+    width: 4%;
+    height: 5%;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-top: 9px;
+
+
+
+}
+
+#pinteresticon {
+    display: inline-block;
+    width: 15%;
+    height: 20%;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding-top: 9px;
+    margin-bottom: 0px;
+}
+ 
+#socMedia {
+    margin: 0 auto;
+    clear: left;
+    text-align: center;
+
+}*/

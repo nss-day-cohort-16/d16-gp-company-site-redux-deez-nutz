@@ -1,8 +1,8 @@
 /* --------- IDs -----------*/
 
 #farmImg {
-	width: 200px;
-	height: 96px;
+	width: 600px;
+	height: 400px;
 }
 
 
@@ -12,15 +12,18 @@
 	width: auto;
 	padding: 0px 60px;
 	margin-top: 20px;
-	color: mauve;
-	background-color: rgba(210, 173, 124, 0.8);
+	color: #fff;
+    font-size: 1.8em;
+    font-weight: bold;
+	/*background-color: rgba(210, 173, 124, 0.8);*/
 }
 
 
 #fbicon {
-    display: inline-block;
-    width: 7%;
-    height: 16%;
+    display: inline;
+    float: right;
+    width: 100px;
+    height: 100px;
     margin-top: 60px;
     margin-left: 25px;
     border-radius: 20px;
@@ -29,15 +32,21 @@
 }
 
 #twittericon {
-    display: inline-block;
-    width: 6%;
-    height: 30%;
+    display: inline;
+    float: right;
+    width: 100px;
+    height: 100px;
     margin-top: 60px;
     border-radius: 20px;
     margin-bottom: 5px;
     
+}
+
+.aboutFarm h3 {
+    font-size: 2.4em;
 
 }
+/*
 
 #instagramicon {
     display: inline-block;
@@ -66,4 +75,4 @@
     clear: left;
     text-align: center;
 
-}
+}*/
